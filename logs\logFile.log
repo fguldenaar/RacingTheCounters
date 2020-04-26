@@ -1,0 +1,5 @@
+20:21:31.174 171  [Thread-2] INFO  n.r.m.RelockCounter - Thread-2 ended in 18 ms
+20:21:31.174 171  [Thread-4] INFO  n.r.m.RelockCounter - Thread-4 ended in 20 ms
+20:21:31.174 171  [Thread-3] INFO  n.r.m.RelockCounter - Thread-3 ended in 21 ms
+20:21:31.174 171  [Thread-1] INFO  n.r.m.RelockCounter - Thread-1 ended in 21 ms
+20:21:31.174 171  [Thread-0] INFO  n.r.m.RelockCounter - Thread-0 ended in 20 ms

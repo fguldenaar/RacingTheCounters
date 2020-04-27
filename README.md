@@ -1,7 +1,10 @@
 # RacingTheCounters
 
 ## Omschrijving
-Hierbij is mijn uitwerking voor de opdacht Racing the Counters.
+Hierbij mijn uitwerking voor de opdacht Racing the Counters. 
+De globale werking van de applicatie: Er worden in totaal 6 threads aangemaakt. Iedere thread telt tot 100 en wordt vervolgens gestopt. Door het inperken van threads bijv. threads die tot 97 gaan in plaats van 100, heb ik 2 varianten uitgewerkt om dit te voorkomen.
+
+### Beperken van thread failing
 Ik heb hier 2 varianten in verwerkt. De eerste is met behulp van synchronized. De tweede is door middel van reentrantlock.
 Het concept van beide methodes hebben dezelfde doeleinde; het voorkomen/beperken van faalende threads.
 
